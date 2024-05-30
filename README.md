@@ -2,9 +2,10 @@
 
 ### Freelance full-stack
 
-Soy Autodidacta en el desarrollo de software desde hace unos años.
+Soy Estudiante de la Universidad Tecnológica Nacional de Santa Fe, Argentina, en la carrera Tecnicatura Universitaria de Tecnologias de la Información.
+Además, Autodidacta en el desarrollo de software desde hace unos años.
 
-🙋‍♂️Soy Maximiliano, un desarrollador autodidacta comprometido en mejorar constantemente💪🏾. Mi enfoque se centra en la programación orientada a objetos, la lógica en programación y el trabajo en equipo. Tengo experiencia en el trato comercial y el asesoramiento a clientes, y me esfuerzo por adquirir nuevos conocimientos cada día. Mi enfoque incluye el análisis y diseño de soluciones.
+🙋‍♂️Soy Maximiliano, un desarrollador comprometido en mejorar constantemente💪🏾. Mi enfoque se centra en la programación orientada a objetos, la lógica en programación y el trabajo en equipo. Tengo experiencia en el trato comercial y el asesoramiento a clientes, y me esfuerzo por adquirir nuevos conocimientos cada día. Mi enfoque incluye el análisis y diseño de soluciones.
 
 <hr>
 
